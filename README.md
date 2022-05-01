@@ -1,6 +1,6 @@
 # practicas-periodismo-de-datos
 
-## En esta carpeta aparecerán todos los repostirios creados por mí, Rocío Ranz, para la asignatura de Periodismo de Datos según las diferentes entregas realizadas a lo largo del curso
+## En esta carpeta aparecerán todos los repositorios creados por mí, Rocío Ranz, para la asignatura de Periodismo de Datos según las diferentes entregas realizadas a lo largo del curso
 
 ### Práctica 1
 
