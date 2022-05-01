@@ -1,0 +1,11 @@
+# practica-1-tresca.md
+# [TRESCA PROYECT: Are social media harmful?](https://trescaproject.eu/2021/10/07/are-social-media-harmful-yes-say-most-europeans-but-its-complicated/)
+## Facebook testimony highlighted the mental health dangers, but research suggests it matters plenty how you present scientific data on a contentious issue like this. 
+### *By Sara Degli Esposti, CSIC*
+### Para comentar el artículo que se nos presenta, es necesario, en primer lugar, conocer el medio en el que está integrado. En concreto, es interesante que, en el apartado de “¿quiénes somos?”, se presenten como: un medio que depende de la información visual para comunicar noticias sobre ciencia y tecnología. 
+> [TRESCA relies on visual communications to empower and inform people with knowledge to thrive in today’s digital environment](https://trescaproject.eu/)
+
+**Esta premisa, como puede observarse, a priori no se encuentra en el texto que hemos leído.**
+Nos encontramos ante una noticia que comienza hablando sobre el impacto que tienen las redes sociales en la salud mental de los jóvenes. Este es un tema en auge que muchos psicólogos y científicos desde otras áreas están tratando debido a que muchos adolescentes ya pasan la mitad de su tiempo utilizando aplicaciones como Instagram o Twitter. 
+Continuando, en la segunda mitad de la noticia se nos aportan más datos. Vemos que han realizado una encuesta y asistimos a enumeraciones de porcentajes. Sin embargo, cabe la perplejidad del lector al ver que la información es confusa, se están tratando varios temas al mismo tiempo, y las conclusiones difieren totalmente del tema presentado en un principio. Además, el único gráfico que la noticia aporta es uno generado con Excel, no interactivo, del cual, aunque se apunte como pie de foto la ampliación de su procedencia, no queda muy claro de dónde sale. Esta gráfica parece colocada de forma errónea pues no casa con la información aportada en la primera parte de la noticia y, de ella, podría sacarse una noticia distinta que explicase los datos.
+Cabría esperar de un proyecto que se presenta como visual que tratase la información de una manera más intuitiva y directa, no redactando los porcentajes sino mostrándolos siempre en su contexto, realizando gráficas más detalladas e infografías para que el lector pueda comprenderlos e integrarlos. 
