@@ -1,3 +1,5 @@
+# Metodología
+
 ## En este documento se leerán todos los pasos que yo, Rocío Ranz, he llevado a cabo para conseguir crear una web en la que puedan visualizarse todos los trabajos realizados durante el curso de la asignatura Periodismo de Datos. 
 
 ### Compilar todos los trabajos realizados
