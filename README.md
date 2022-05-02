@@ -15,16 +15,25 @@ Tomando como base algún o algunos trabajos de periodismo de datos, visualizaci�
 
 ### Práctica 3
 - [Explicación de aprendiendo con Jupyter](https://github.com/Pontedatos/RocioRanz/blob/main/practica-3.md)
-- [Probando con R](https://github.com/Pontedatos/RocioRanz/blob/main/probando-con-r.ipynb)
-- [API COVID 19 Pandas](https://github.com/Pontedatos/RocioRanz/blob/main/phyton-api-covid19-pandas.ipynb)
-- [API Pandas Folium](https://github.com/Pontedatos/RocioRanz/blob/main/api-pandas-folium.ipynb)
+- [Probando con R en ipynb](https://github.com/Pontedatos/RocioRanz/blob/main/probando-con-r.ipynb)
+- [Probando con R en html](https://github.com/Pontedatos/RocioRanz/blob/main/probando-con-r.html)
+- [API COVID 19 Pandas en ipynb](https://github.com/Pontedatos/RocioRanz/blob/main/phyton-api-covid19-pandas.ipynb)
+- [API COVID 19 Pandas en html](https://github.com/Pontedatos/RocioRanz/blob/main/phyton-api-covid19-pandas.html)
+- [API Pandas Folium en ipynb](https://github.com/Pontedatos/RocioRanz/blob/main/api-pandas-folium.ipynb)
+- [API Pandas Folium en html](https://github.com/Pontedatos/RocioRanz/blob/main/api-pandas-folium.html)
 
 Tomando como base los "notebooks" "barchart" y "api-pandas-folium" que hemos realizado hasta ahora la práctica 3 consistió en **completar los cuadernos con nuestros comentarios donde explicásemos qué habíamos hecho, qué entendíamos que hemos hecho y qué nos faltaba por entender**. Una vez hechos, habíamos de descargarlos en formato "ipynb" y "html" y subirlos a nuestro repositorio de GitHub.
 
 ### Práctica 4
-- [Explicación del notebook propio en Jupyter](https://github.com/Pontedatos/RocioRanz/blob/main/practica-4.md)
-- [Infracciones en Alcobendas](https://github.com/Pontedatos/RocioRanz/blob/main/practica-4.ipynb)
+- [Explicación de la práctica](https://github.com/Pontedatos/RocioRanz/blob/main/practica-4.md)
+- [Datos](https://github.com/Pontedatos/RocioRanz/blob/main/practica-4.csv.csv)
+- [Infracciones en Alcobendas durante las restricciones de la COVID-19 en ipynb](https://github.com/Pontedatos/RocioRanz/blob/main/practica-4.ipynb)
+- [Infracciones en Alcobendas durante las restricciones de la COVID-19 en html](https://github.com/Pontedatos/RocioRanz/blob/main/practica-4.ipynb)
 
 Esta práctica consistió en la **realización de un notebook en jupyter con Python** donde se utilizan ciertos datos, se documenta el proceso de análisis de datos que incluye su visualización y se bosqueja una historia con los mismos. Yo he elegido datos sobre [infracciones en Alcobendas durante las restricciones de COVID-19](https://datos.alcobendas.org/dataset/infracciones-por-incumplimiento-restricciones-estado-de-alarma-covid-19/resource/1f568d4c-c310-4462-ac90-2b55fed026a6?view_id=56a3145c-a39b-4eee-b415-37bd46b36d92) proporcionados por el mismo ayuntamiento de Alcobendas.
+
+### Anexo: otros documentos necesarios en la práctica final
+- [Metodología: cómo se ha hecho la práctica final de la asignatura](https://github.com/Pontedatos/RocioRanz/blob/main/metodolog%C3%ADa.md)
+- [Resumen: todo lo aprendido en Periodismo de Datos](https://github.com/Pontedatos/RocioRanz/blob/main/resumen.md)
 
 # RocioRanz
