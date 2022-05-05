@@ -17,7 +17,7 @@ Tomando como base algún o algunos trabajos de periodismo de datos, visualizaci�
 - [Explicación de aprendiendo con Jupyter](practica-3.md)
 - [Probando con R en ipynb](https://github.com/Pontedatos/RocioRanz/blob/main/probando-con-r.ipynb)
 - [Probando con R en html](https://github.com/Pontedatos/RocioRanz/blob/main/probando-con-r.html)
-- [API COVID 19 Pandas en ipynb](https://github.com/Pontedatos/RocioRanz/blob/main/phyton-api-covid19-pandas.ipynb)
+- [API COVID 19 Pandas en ipynb](https://github.com/Pontedatos/candelaccrespi/blob/main/python-api-covid-pandas.ipynb)
 - [API COVID 19 Pandas en html](https://github.com/Pontedatos/RocioRanz/blob/main/phyton-api-covid19-pandas.html)
 - [API Pandas Folium en ipynb](https://github.com/Pontedatos/RocioRanz/blob/main/api-pandas-folium.ipynb)
 - [API Pandas Folium en html](https://github.com/Pontedatos/RocioRanz/blob/main/api-pandas-folium.html)
